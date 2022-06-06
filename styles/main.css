@@ -1,0 +1,56 @@
+body{
+    background-color: #e5e5e5;
+}
+.top{
+    max-width: 1620px;
+    height: 513px;
+    background-image: url(/images/header1.png)
+}
+.top-text{
+    max-width: 730px;
+    height: 82px;
+    background-color:#222b3a;
+}
+.top-text{
+    width: 431px;
+    min-height: 74px;
+    color:#ffffff;
+    font-size: 44px;
+}
+.liner1P{
+    width: 485PX;
+    height: 18px;
+}
+.col-9{
+    padding-left: 230px;
+}
+
+.progress{
+    width: 475px
+}
+
+.top-p{
+    width: 485px;
+    height: 87px;
+    font-size: 16px;
+    color:#222b3a;
+}
+.group1{
+    width:486px;
+    height: 42px;
+    background-image: url(/images/group19.svg);
+    background-repeat: no-repeat;
+}
+.footer-background{
+    background-color: #0099dd;
+}
+
+.backgroundbutton{
+    max-width: 1110;
+    height: 45px;
+    background-color: #ffa43f;
+}
+
+.footer-background .list-group-item{
+    background-color: #0099dd;
+}
